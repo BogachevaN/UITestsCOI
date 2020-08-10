@@ -1,0 +1,14 @@
+theme,Проверка обязательности
+fixationAt,06.02.2020 14:30
+description,Описание
+typeOfIncident,Нарушение безопасности при переводе средств
+fincertHelpFalse,true
+federalDistrict,Сибирский федеральный округ
+subjectOfFederation,Новосибирская область
+registrationDepartment,Операционный офис
+registrationTechnicalDevice,Телефон
+lawEnforcementRequestFalse,true
+vectorINT,true
+typeOfAttack,Использование вредоносного программного обеспечения
+event,Расчетный центр не работал дольше дня
+eventDescription,Внутренний нарушитель
